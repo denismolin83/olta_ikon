@@ -1,4 +1,3 @@
-import openpyxl as op
 import os
 
 
